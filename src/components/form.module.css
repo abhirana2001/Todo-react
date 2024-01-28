@@ -1,0 +1,39 @@
+.todoform{
+background-color: rgb(255, 255, 255);
+margin: 0 auto;
+margin-top: 50px;
+display: flex;
+border-radius: 5px;
+padding: 20px;
+width: 500px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+.modinput{
+   width: 100%;
+    color: rgb(0, 0, 0);
+    border-style:none;
+    display:block;
+    font-size: 16px;
+}
+.modinput:focus{
+    outline: none;
+}
+.modsubmit{
+  display: inline-block;
+  border: none;
+  color: aliceblue;
+  background-color: rgb(189, 183, 107);
+  font-size: 18px;
+  padding: 5px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor:pointer ;
+}
+.modsubmit:hover{
+background-color: rgb(255, 255, 255);;
+color: darkkhaki;
+border: 2px darkkhaki solid;
+font-size: 16px;
+font-weight: bold;
+padding: 5px 15px;
+}

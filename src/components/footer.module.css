@@ -1,0 +1,18 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    background-color: darkkhaki;
+    width: 100%;
+    padding: 10px;
+    color:white ;
+}
+.fitem{
+margin: 20px;
+}
+.fakefooter{
+    bottom: 0;
+    padding: 23px;
+}

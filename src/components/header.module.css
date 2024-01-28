@@ -1,0 +1,17 @@
+
+.header{
+  margin: 0%;
+    position: fixed;
+    width: 100%;
+  background-color: darkkhaki;
+    text-align: center;
+    height: 50px;
+    font-size: 38px;
+    font-weight: bold;
+ color: aliceblue;
+ box-shadow: 0 4px 6px rgba(10, 0, 0, 0.2);
+
+}
+.fakeheader{
+  height: 50px;
+}

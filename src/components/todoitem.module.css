@@ -1,0 +1,28 @@
+.item{
+    width: 500px;
+    font-size: 20px;
+    color: #353935;
+    margin: 0 auto;
+    border: 3px darkkhaki solid ;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0, 0.2);
+}
+.item1{
+    background-color:darkkhaki ;
+}
+.itemName{
+font-weight: bolder;
+padding: 20px;
+}
+
+.deleteBtn{
+    float:right;
+    margin-top: -6px;
+}
+.todoComplete{
+  
+   float: left;
+   padding: 0 10px;
+   margin-top: -6px ;
+}
